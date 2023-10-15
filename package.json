@@ -1,19 +1,22 @@
 {
-"name": "bryan",
-"version": "1.0.0",
-"description": "jslibrary",
-"main": "index.js",
-"scripts": {
-"test": "echo \"Error: no test specified\" && exit 1"
-},
-"repository": {
-"type": "git",
-"url": "https://github.com/bryangomezcarranza/myfirstpackage"
-},
-"keywords": [
-"firstproject"
-],
-"author": "bryan gomez",
-"license": "MIT"
+  "name": "bryan",
+  "version": "1.0.0",
+  "description": "jslibrary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryangomezcarranza/myfirstpackage.git"
+  },
+  "keywords": [
+    "firstproject"
+  ],
+  "author": "bryan gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryangomezcarranza/myfirstpackage/issues"
+  },
+  "homepage": "https://github.com/bryangomezcarranza/myfirstpackage#readme"
 }
-
